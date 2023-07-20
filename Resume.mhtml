@@ -1,26 +1,26 @@
 From: <Saved by Blink>
-Snapshot-Content-Location: https://64b86b91f7f9e700080c75aa--itsronaldomondi.netlify.app/
+Snapshot-Content-Location: https://itsronaldomondi.netlify.app/
 Subject: Resume
-Date: Wed, 19 Jul 2023 23:19:36 -0000
+Date: Wed, 19 Jul 2023 23:53:37 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----"
+	boundary="----MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----"
 
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: text/html
-Content-ID: <frame-E75E59D277D2FB84E239DD1828D80336@mhtml.blink>
+Content-ID: <frame-DB17B9CE30C2657EEB1A650A095A9AFE@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://64b86b91f7f9e700080c75aa--itsronaldomondi.netlify.app/
+Content-Location: https://itsronaldomondi.netlify.app/
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8">
    =20
     <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
 =3D1.0">
-    <link rel=3D"stylesheet" href=3D"https://64b86b91f7f9e700080c75aa--itsr=
-onaldomondi.netlify.app/style.css">
+    <link rel=3D"stylesheet" href=3D"https://itsronaldomondi.netlify.app/st=
+yle.css">
     <link rel=3D"stylesheet" href=3D"https://cdnjs.cloudflare.com/ajax/libs=
 /font-awesome/4.7.0/css/font-awesome.css" crossorigin=3D"anonymous" referre=
 rpolicy=3D"no-referrer">=20
@@ -31,8 +31,7 @@ rpolicy=3D"no-referrer">=20
         <div class=3D"left_side">
         <div class=3D"profileText">
         <div class=3D"imgBx">
-            <img src=3D"https://64b86b91f7f9e700080c75aa--itsronaldomondi.n=
-etlify.app/img.jpg">
+            <img src=3D"https://itsronaldomondi.netlify.app/img.jpg">
         </div>
         <h2>Ronald Omondi</h2>
         </div>
@@ -390,10 +389,10 @@ tnLicense" class=3D"nav-btn">License</button><button id=3D"btnHome" class=
 =3D"nav-btn">Home</button><button id=3D"btnFeedback" class=3D"nav-btn">Feed=
 back</button><button id=3D"btnSettings" class=3D"nav-btn">Settings</button>=
 </div></div></template></div></body></html>
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://64b86b91f7f9e700080c75aa--itsronaldomondi.netlify.app/style.css
+Content-Location: https://itsronaldomondi.netlify.app/style.css
 
 @charset "utf-8";
 
@@ -465,14 +464,14 @@ p { padding-bottom: 50px; }
 
 .title6 { color: rgb(197, 192, 192); padding-top: 7px; padding-bottom: 15px=
 ; }
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fonts.googleapis.com/css?family=poppins:200,300,400,500,600,700,800,900&display=swap
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
@@ -1965,10 +1964,10 @@ n: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); border: 0px; }
 
 .sr-only-focusable:active, .sr-only-focusable:focus { position: static; wid=
 th: auto; height: auto; margin: 0px; overflow: visible; clip: auto; }
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
-Content-Location: https://64b86b91f7f9e700080c75aa--itsronaldomondi.netlify.app/img.jpg
+Content-Location: https://itsronaldomondi.netlify.app/img.jpg
 
 /9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
 CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
@@ -2111,7 +2110,7 @@ kS3kBiMQeybnEKg0fIkmVlmaiLlaBanQESdIn2BaPcMiALJXydy44s6XuYGxFdWYYmhzBSKEZL5Y
 AgY9zFpZg0CfWII16Zic41pw39luHDymKqLEpuomJBDLx+ZWk2A3+yMwa+7+QsKdaX0juKjAD46n
 /mnPub7P/9k=
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/css/custom.css
@@ -2956,7 +2955,7 @@ icy-text { color: rgb(137, 137, 137); text-align: left; font-size: 12px; }
 #yf-bt-wrapper .faq-text ol { padding-left: 25px; }
 
 #yf-bt-wrapper .faq-text ol li { margin-bottom: 10px; }
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/ts-free-logo.png
@@ -3043,7 +3042,7 @@ F3fp5bZQN2+/EaX+gAkU5I50dmRDt/zXKSj+KHgjC++qMf68sCPD+tMdiNMFy5JAdbnJdQPJr90C
 mXxXGT1QOW5zUtsCNWZnawtUzo3MO9gq78ZzTKCz68J+nRm2C1V1Kspp6GDnFrQTBKug0xXc7NA1
 FrgJTNfYscul3ASmy03aNQJvAtM1duxyKf8P87k2o2b8GPsAAAAASUVORK5CYII=
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-sync.svg
@@ -3064,7 +3063,7 @@ a5.526,5.526,0,0,1-9.43,3.944L4.368,13.833A8.05,8.05,0,0,0,18.129,8.149h1.1=
 9c93c"/>
 </svg>
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-success.svg
@@ -3094,7 +3093,7 @@ ht=3D"17.219" rx=3D"2" transform=3D"translate(486.988 397.454) rotate(135)"=
   </g>
 </svg>
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-key2.svg
@@ -3140,7 +3139,7 @@ t)"/>
   </g>
 </svg>
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-alert.svg
@@ -3170,7 +3169,7 @@ ht=3D"3.805" rx=3D"1.902" transform=3D"translate(485.504 398.799) rotate(13=
   </g>
 </svg>
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R----
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: chrome-extension://aegnopegbbhjeeiganiajffnalhlkkjb/img/assets/icon-feedback.svg
@@ -3207,4 +3206,4 @@ b836d"/>
   </g>
 </svg>
 
-------MultipartBoundary--zgOpLvHl3sketMyikpUyIid55vcmwhyqPqkckA319R------
+------MultipartBoundary--VVagJhMvsowRZihaPBDU9WmKMW2NJIy4QlqE6CMqHW------
